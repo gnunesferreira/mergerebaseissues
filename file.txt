@@ -3,3 +3,5 @@ first file
 Master -> firstBranch - update
 Master -> SecondBranch
 Master -> ThirdBranch
+Master -> FourthBranch
+Master -> FourthBranch - second commitMaster -> SecondBranch
